@@ -1,0 +1,7 @@
+{
+  "name": "localiza ;-;",
+  "description": "Um painel de rastreamento social em tempo real com atualizações de status via IA.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
